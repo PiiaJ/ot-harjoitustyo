@@ -13,4 +13,4 @@ _Ne **toimivat** myös yhdessä_.
 
 Tällä voisi tehdä monia muitakin asioita.
 
-Linkki [gitlog.txt:hen] (ot-harjoitustyo/laskarit/viikko1/gitlog.txt)
+Linkki [gitlog.txt:hen] (viikko1/gitlog.txt)
