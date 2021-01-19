@@ -13,4 +13,4 @@ _Ne **toimivat** myös yhdessä_.
 
 Tällä voisi tehdä monia muitakin asioita.
 
-[gitlog.txt](viikko1/gitlog.txt)
+[gitlog.txt](gitlog.txt)
