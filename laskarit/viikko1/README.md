@@ -1,4 +1,4 @@
-# Otsikko
+# Pääotsikko
 
 Täällä kokeillaan Markdownia. Kokeilussa otsikot, lihavoinnit, kursivoinnit sekä linkit.
  
