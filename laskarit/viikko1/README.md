@@ -1,6 +1,6 @@
 # Otsikko
 
-Täällä kokeillaan Markdownia.
+Täällä kokeillaan Markdownia. Kokeilussa otsikot, lihavoinnit, kursivoinnit sekä linkit.
  
 ## Alaotsikko
 
